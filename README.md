@@ -13,9 +13,9 @@ If you haven't already got [Maven](http://maven.apache.org), install it now.
 
 1. From the root of your working copy, run this:
 
-  mvn clean install
+  `mvn clean install`
 
-2. Deploy .\target\jboss-log.war in a JBoss Server.
+2. Deploy `.\target\jboss-log.war` in a JBoss Server.
 
 Thanks, 
 Felipe Crescencio
